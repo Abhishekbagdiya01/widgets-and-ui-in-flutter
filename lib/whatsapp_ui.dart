@@ -335,7 +335,7 @@ class _SplashScreenState extends State<SplashScreen> {
           children: [
             Center(
               child: Icon(
-                Icons.whatsapp,
+                Icons.message,
                 size: 100,
                 color: Color(0xff075e54),
               ),
